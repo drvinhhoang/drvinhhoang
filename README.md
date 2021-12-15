@@ -10,3 +10,4 @@ Minimalist pomodoro timer, with nature sounds, notification, taptic feedback
 
 <img src="Images/appscreen.jpg" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/appscreen.jpg" width="300" >
 
+<a href="https://apps.apple.com/us/app/id"><img src="Images/download.svg"></a>
