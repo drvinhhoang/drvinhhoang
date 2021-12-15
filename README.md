@@ -8,7 +8,7 @@ Hi there, I'm Vinh, I'm currently a doctor, being on the journey to become an iO
 
 # <img src="Images/icon_60pt@3x.png" width="32" >  Focus In Nature
 
-Minimalist pomodoro timer, with nature sounds, notification, taptic feedback
+Minimalist pomodoro timer, with nature sounds, notification, haptic feedback
 
 <img src="Images/focusInNature/focusInNatureGreen_iphone12black_portrait.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/setting.png" width="300" >&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/screen.gif" height="220" >
 
