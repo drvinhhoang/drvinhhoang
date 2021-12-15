@@ -10,16 +10,16 @@ Hi there, I'm Vinh, I'm currently a doctor. I'm being on the journey to become a
 
 Minimalist pomodoro timer, with nature sounds, notification, taptic feedback
 
-<img src="Images/appscreen.jpg" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/focusInNatureGreen.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/focusInNatureSetting.png" width="300" >
+<img src="Images/focusInNature/focusInNatureGif.gif" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/focusInNatureGreen_iphone12black_portrait.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/focusInNatureSetting_iphone12black_portrait.png" width="300" >
 
-<a href="https://apps.apple.com/us/app/id"><img src="Images/download.svg"></a>
+<a href="https://apps.apple.com/"><img src="Images/download.svg"></a>
 
 
 # <img src="Images/findWeatherIcon.png" width="32" >  Find Weather
 
 Simple weather app, support seaching for weather. Fetch weather data using user's location.
 
-<img src="Images/findWeatherScreen.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/appscreen.jpg" width="300" >
+<img src="Images/findWeather/findWeatherGift.gif" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/findWeather/findWeatherScreen_iphone12black_portrait.png" width="300" >
 
-<a href="https://github.com/drvinhhoang/GitHubFlollowers"><img src="Images/github.svg"></a>
-<img src="Images/focusInNatureGif.gif" width="260"/>
+<a href="https://github.com/drvinhhoang/FindWeather"><img src="Images/github.svg"></a>
+
