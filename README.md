@@ -19,7 +19,7 @@ Minimalist pomodoro timer, with nature sounds, notification, taptic feedback
 
 Simple weather app, support seaching for weather. Fetch weather data using user's location.
 
-<img src="Images/findWeather/findWeatherScreen_iphone12black_portrait.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/findWeather/findWeatherGift.gif" width="220" >
+<img src="Images/findWeather/findWeatherScreen_iphone12black_portrait.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/findWeather/findWeatherGift.gif" width="100" >
 
 <a href="https://github.com/drvinhhoang/FindWeather"><img src="Images/github.svg"></a>
 
