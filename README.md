@@ -10,7 +10,9 @@ Hi there, I'm Vinh, I'm currently a doctor. I'm being on the journey to become a
 
 Minimalist pomodoro timer, with nature sounds, notification, taptic feedback
 
-<img src="Images/focusInNature/focusInNatureGif.gif" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/focusInNatureGreen_iphone12black_portrait.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/focusInNatureSetting_iphone12black_portrait.png" width="300" >
+<img src="Images/focusInNature/focusInNatureGreen_iphone12black_portrait.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/focusInNatureSetting_iphone12black_portrait.png" width="300" >
+
+<img src="Images/focusInNature/focusInNatureGif.gif" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://apps.apple.com/"><img src="Images/download.svg"></a>
 
