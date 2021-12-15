@@ -27,3 +27,14 @@ Simple weather app, display the weather the city typed in the search text field 
 
 <a href="https://github.com/drvinhhoang/FindWeather"><img src="Images/github.svg"></a>
 
+
+
+# <img src="Images/PomoFocus/icon_40pt.png" width="32" >  Find Weather
+Frameworks: SwiftUI, CoreLocation
+
+Simple weather app, display the weather the city typed in the search text field by users, or fetch weather data using user's location by tapping in location button at the top leading area.
+
+<img src="Images/PomoFocus/mainscreen.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/PomoFocus/signIn.png" width="300" >
+<img src="Images/PomoFocus/loggedIn.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/PomoFocus/settingScreen.png" width="300" >
+
+<a href="https://github.com/drvinhhoang/FindWeather"><img src="Images/github.svg"></a>
