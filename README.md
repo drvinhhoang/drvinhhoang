@@ -10,9 +10,7 @@ Hi there, I'm Vinh, I'm currently a doctor. I'm being on the journey to become a
 
 Minimalist pomodoro timer, with nature sounds, notification, taptic feedback
 
-<img src="Images/focusInNature/focusInNatureGreen_iphone12black_portrait.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/focusInNatureSetting_iphone12black_portrait.png" width="300" >
-
-<img src="Images/focusInNature/screen.gif" width="250" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Images/focusInNature/focusInNatureGreen_iphone12black_portrait.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/focusInNatureSetting_iphone12black_portrait.png" width="300" >&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/screen.gif" width="250" >
 
 <a href="https://apps.apple.com/"><img src="Images/download.svg"></a>
 
@@ -21,7 +19,7 @@ Minimalist pomodoro timer, with nature sounds, notification, taptic feedback
 
 Simple weather app, support seaching for weather. Fetch weather data using user's location.
 
-<img src="Images/findWeather/findWeatherGift.gif" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/findWeather/findWeatherScreen_iphone12black_portrait.png" width="300" >
+<img src="Images/findWeather/findWeatherGift.gif" width="240" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/findWeather/findWeatherScreen_iphone12black_portrait.png" width="300" >
 
 <a href="https://github.com/drvinhhoang/FindWeather"><img src="Images/github.svg"></a>
 
