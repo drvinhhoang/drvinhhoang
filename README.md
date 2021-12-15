@@ -1,4 +1,4 @@
-### Hi there 🤔
+### Hi I'm Vinh, a doctor on the way to become an iOS developer.
 
 <img src="Images/bigheadimage.jpg" width="1344" > 
 
