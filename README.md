@@ -8,7 +8,7 @@ Hi there, I'm Vinh, I'm currently a doctor, being on the journey to become an iO
 
 # <img src="Images/icon_60pt@3x.png" width="32" >  Focus In Nature
 
-Framework: SwiftUI, AVFounddation, AVKit
+Frameworks: SwiftUI, AVFounddation, AVKit
 
 Minimalist pomodoro timer, with nature sounds, notification, haptic feedback
 
