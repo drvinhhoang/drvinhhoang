@@ -1,5 +1,5 @@
 ### Hi there 🤔
 
-![](images/bigheadimage.jpg)
+![](Images/bigheadimage.jpg)
 
 
