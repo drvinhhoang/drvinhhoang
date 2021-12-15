@@ -2,4 +2,11 @@
 
 <img src="Images/bigheadimage.jpg" width="1344" > 
 
+Hi there, I'm Vinh, I'm currently a doctor. I'm being on the journey to become an iOS developer. It's a rough path but also intriguing.  I like to make app that people love to use.
+
+<img src="Images/icon_60pt@3x.png" width="32" >  Focus In Nature
+
+Minimalist pomodoro timer, with nature sounds, notification, taptic feedback
+
+<img src="Images/appscreen.jpg" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/appscreen.jpg" width="300" >
 
