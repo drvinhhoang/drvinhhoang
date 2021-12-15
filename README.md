@@ -6,16 +6,17 @@ Hi there, I'm Vinh, I'm currently a doctor, being on the journey to become an iO
 
 ### Some of my projects:
 
-# <img src="Images/icon_60pt@3x.png" width="32" >  Focus In Nature
+# <img src="Images/icon_60pt@3x.png" width="32" >  Focus In Nature: SWiftUI
 
 Minimalist pomodoro timer, with nature sounds, notification, haptic feedback
+
 
 <img src="Images/focusInNature/focusInNatureGreen_iphone12black_portrait.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/setting.png" width="300" >&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/screen.gif" height="220" >
 
 <a href="https://apps.apple.com/"><img src="Images/download.svg"></a>
 
 
-# <img src="Images/findWeatherIcon.png" width="32" >  Find Weather
+# <img src="Images/findWeatherIcon.png" width="32" >  Find Weather - SwiftUI
 
 Simple weather app, support seaching for weather. Fetch weather data using user's location.
 
