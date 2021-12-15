@@ -21,7 +21,7 @@ Minimalist pomodoro timer, with nature sounds, notification, haptic feedback.
 # <img src="Images/findWeatherIcon.png" width="32" >  Find Weather
 Frameworks: SwiftUI, CoreLocation
 
-Simple weather app, display the weather of city name users type in the search text field or fetch weather data using user's location by tapping in location button at the top leading area.
+Simple weather app, display the weather the city typed in the search text field by users, or fetch weather data using user's location by tapping in location button at the top leading area.
 
 <img src="Images/findWeather/findWeatherScreen_iphone12black_portrait.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/findWeather/findWeatherGift.gif" width="140" >
 
