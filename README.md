@@ -32,7 +32,7 @@ Simple weather app, display the weather the city typed in the search text field 
 # <img src="Images/PomoFocus/icon_40pt.png" width="32" >  LetsFocusPomo
 Frameworks: SwiftUI, Firebase
 
-Another timer, but add authentication by email.
+Another timer, but add authentication by email. Let users save their setting on Firebase's Firestore.
 
 <img src="Images/PomoFocus/mainscreen.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/PomoFocus/signIn.png" width="300" >
 <img src="Images/PomoFocus/loggedIn.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/PomoFocus/settingScreen.png" width="300" >
