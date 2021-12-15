@@ -2,7 +2,7 @@
 
 <img src="Images/bigheadimage.jpg" width="1344" > 
 
-Hi there, I'm Vinh, I'm currently a doctor. I'm being on the journey to become an iOS developer. It's a rough path but also intriguing.  
+Hi there, I'm Vinh, I'm currently a doctor, being on the journey to become an iOS developer. It's a rough path but also intriguing. 
 
 ### Projects:
 
