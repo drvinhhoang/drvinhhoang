@@ -4,7 +4,7 @@
 
 Hi there, I'm Vinh, I'm currently a doctor. I'm being on the journey to become an iOS developer. It's a rough path but also intriguing.  I like to make app that people love to use.
 
-### Some apps of me
+### Projects:
 
 # <img src="Images/icon_60pt@3x.png" width="32" >  Focus In Nature
 
