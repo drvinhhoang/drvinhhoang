@@ -19,6 +19,7 @@ Minimalist pomodoro timer, with nature sounds, notification, haptic feedback
 
 
 # <img src="Images/findWeatherIcon.png" width="32" >  Find Weather
+Frameworks: SwiftUI, CoreLocation
 
 Simple weather app, support seaching for weather. Fetch weather data using user's location.
 
