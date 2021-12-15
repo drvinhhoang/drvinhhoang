@@ -1,5 +1,5 @@
 ### Hi there 🤔
 
-![](Images/bigheadimage.jpg)
+<img src="Images/bigheadimage.jpg" width="100" > 
 
 
