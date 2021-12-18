@@ -43,7 +43,7 @@ Simple weather app, display the weather the city typed in the search text field 
 
 
 
-# <img src="Images/PomoFocus/icon_40pt.png" width="32" >  LetsFocusPomo  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/drvinhhoang/LetsFocusPomoSPM"><img src="Images/github.svg"></a>
+# <img src="Images/PomoFocus/icon_40pt.png" width="32" >  PomoFocus  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/drvinhhoang/PomoFocus"><img src="Images/github.svg"></a>
 ##### SwiftUI, Firebase
 
 Another timer, but add email authentication. Let users save their settings on cloud.
