@@ -34,7 +34,7 @@ Frameworks: SwiftUI, CoreLocation
 
 Simple weather app, display the weather the city typed in the search text field by users, or fetch weather data using user's location by tapping in location button at the top leading area.
 
-<img src="Images/findWeather/findWeatherScreen_iphone12black_portrait.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/findWeather/findWeatherGift.gif" width="140" >
+<img src="Images/findWeather/findWeatherScreen_iphone12black_portrait.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/findWeather/findWeatherGift.gif" width="220" >
 
 
 
