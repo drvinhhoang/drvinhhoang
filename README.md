@@ -45,7 +45,7 @@ Frameworks: SwiftUI, Firebase
 
 Another timer, but add authentication by email. Let users save their settings on Firebase's Firestore.
 
-<img src="Images/PomoFocus/mainscreen.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/PomoFocus/signIn.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/PomoFocus/loggedIn.png" width="300" >
+<img src="Images/PomoFocus/mainscreen.png" width="220" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/PomoFocus/signIn.png" width="220" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/PomoFocus/loggedIn.png" width="220" >
 
 
 
