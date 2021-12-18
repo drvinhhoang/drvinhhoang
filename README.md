@@ -10,7 +10,7 @@ Hi there, I'm Vinh, I'm currently a doctor, being on the journey to become an iO
 
 Frameworks: SwiftUI, AVFounddation, AVKit
 
-Minimalist pomodoro timer, with nature sounds, notification, haptic feedback, play sound in background.
+Minimalist pomodoro timer, with nature sounds, local notification, haptic feedback, play sound in background.
 
 
 <img src="Images/focusInNature/focusInNatureGreen_iphone12black_portrait.png" width="220" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/setting.png" width="220" >&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/screen.gif" width="220" style="margin-bottom: 200px;" >
@@ -32,7 +32,7 @@ Using github public API, searchable collectionView. When type in username, fetch
 # <img src="Images/findWeatherIcon.png" width="32" >  Find Weather  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://github.com/drvinhhoang/FindWeather"><img src="Images/github.svg"></a>
 Frameworks: SwiftUI, CoreLocation
 
-Simple weather app, display the weather the city typed in the search text field by users, or fetch weather data using user's location by tapping in location button at the top leading area.
+Simple weather app, display the weather the city typed in the search text field by users, or fetch weather data using user's location by tapping in location button.
 
 <img src="Images/findWeather/findWeatherScreen_iphone12black_portrait.png" width="220" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/findWeather/findWeatherGift.gif" width="220" >
 
@@ -43,7 +43,7 @@ Simple weather app, display the weather the city typed in the search text field 
 # <img src="Images/PomoFocus/icon_40pt.png" width="32" >  LetsFocusPomo  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/drvinhhoang/LetsFocusPomoSPM"><img src="Images/github.svg"></a>
 Frameworks: SwiftUI, Firebase
 
-Another timer, but add authentication by email. Let users save their settings on Firebase's Firestore.
+Another timer, but add email authentication. Let users save their settings on cloud.
 
 <img src="Images/PomoFocus/mainscreen.png" width="220" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/PomoFocus/signIn.png" width="220" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/PomoFocus/loggedIn.png" width="220" >
 
