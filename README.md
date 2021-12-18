@@ -10,7 +10,7 @@ Hi there, I'm Vinh, I'm currently a doctor, being on the journey to become an iO
 
 Frameworks: SwiftUI, AVFounddation, AVKit
 
-Minimalist pomodoro timer, with nature sounds, notification, haptic feedback.
+Minimalist pomodoro timer, with nature sounds, notification, haptic feedback, play sound in background.
 
 
 <img src="Images/focusInNature/focusInNatureGreen_iphone12black_portrait.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/setting.png" width="300" >&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/screen.gif" width="220" style="margin-bottom: 200px;" >
