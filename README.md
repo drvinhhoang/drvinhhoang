@@ -23,7 +23,7 @@ Frameworks: UIKit
 Using searchable collection view, using github public API. When type in username, fetch followers list of the user. Show detail infomation of the follower when tapped. Show github profile button leads to follower profile page using safari view.
 
 
-<img src="drvinhhoang/Images/githubFollower-iphone12mockup/searchview.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/githubFollower-iphone12mockup/listview.png/" width="300" >
+<img src="Images/githubFollower-iphone12mockup/searchview.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/githubFollower-iphone12mockup/listview.png/" width="300" >
 <img src="Images/githubFollower-iphone12mockup/detailview.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/githubFollower-iphone12mockup/safariviewa.png" width="300" >
 <img src="Images/githubFollower-iphone12mockup/gfscreen.gif" height="220" >
 
