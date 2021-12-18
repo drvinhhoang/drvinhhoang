@@ -13,7 +13,7 @@ Frameworks: SwiftUI, AVFounddation, AVKit
 Minimalist pomodoro timer, with nature sounds, notification, haptic feedback.
 
 
-<img src="Images/focusInNature/focusInNatureGreen_iphone12black_portrait.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/setting.png" width="300" >&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/screen.gif" height="220" style="padding-left: 10px; margin-bottom: 20px;" >
+<img src="Images/focusInNature/focusInNatureGreen_iphone12black_portrait.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/setting.png" width="300" >&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/screen.gif" height="220" style="margin-bottom: 200px;" >
 
 <a href="https://apps.apple.com/app/id1600222896"><img src="Images/download.svg"></a>
 
