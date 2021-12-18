@@ -6,7 +6,7 @@ Hi there, I'm Vinh, I'm currently a doctor, being on the journey to become an iO
 
 ### Some of my projects:
 
-# <img src="Images/icon_60pt@3x.png" width="32" >  Focus In Nature
+# <img src="Images/icon_60pt@3x.png" width="32" >  Focus In Nature     <a href="https://apps.apple.com/app/id1600222896"><img src="Images/download.svg"></a>
 
 Frameworks: SwiftUI, AVFounddation, AVKit
 
@@ -15,9 +15,9 @@ Minimalist pomodoro timer, with nature sounds, notification, haptic feedback.
 
 <img src="Images/focusInNature/focusInNatureGreen_iphone12black_portrait.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/setting.png" width="300" >&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/screen.gif" width="220" style="margin-bottom: 200px;" >
 
-<a href="https://apps.apple.com/app/id1600222896"><img src="Images/download.svg"></a>
 
-# <img src="Images/PomoFocus/icon_40pt.png" width="32" >  Github Followers
+
+# <img src="Images/githubFollower-iphone12mockup/Icon@2x.png" width="32" >  Github Followers
 Frameworks: UIKit
 
 Using github public API, searchable collectionView. When type in username, fetch followers list of the user. Show detail infomation of the follower when tapped. Show github profile button leads to follower profile page using safari view.
