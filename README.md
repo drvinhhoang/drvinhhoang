@@ -19,7 +19,7 @@ Minimalist pomodoro timer, with nature sounds, notification, haptic feedback.
 
 # <img src="Images/githubFollower-iphone12mockup/Icon@2x.png" width="32" >  Github Followers  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/drvinhhoang/GIthubFollower"><img src="Images/github.svg"></a>
 
-Frameworks: UIKit
+Frameworks: UIKit (Interface Builder for UI)
 
 Using github public API, searchable collectionView. When type in username, fetch followers list of the user. Show detail infomation of the follower when tapped. Show github profile button leads to follower's profile page in safari view.
 
