@@ -2,8 +2,8 @@
 
 <img src="Images/bigheadimage.jpg" width="1000" > 
 
-Hi there, I'm Vinh, I'm currently a doctor, being on the journey to become an iOS developer. It's a rough path but also intriguing.
-Since long ago, I know that my true calling is to become a programmer. But I didn't have courage to pusuit my calling. After years working as a doctor, there something still missing inside me, I knew I have to make the decision. Finally, I made it, that's why I'm being here. I made a promise to myself. I will never waste any secconds of my life again. I will put everything in learning programming, and live the life I've always wanted. After all, there's only one life and there's only one chance to live it. When I grow old and looking back, I don't want to regret about not making the decision.
+Hi there, I'm Vinh, I'm currently a doctor, being on the journey to becoming an iOS developer. It's a rough path but also intriguing.
+Since long ago, I know that my true calling is to become a programmer. But I didn't have the courage to pursue it. After years of working as a doctor, there was something still missing inside me, I knew I have to make the decision. Finally, I made it, that's why I'm being here. I made a promise to myself. I will never waste any seconds of my life again. I will put everything into learning programming, and live the life I've always wanted. After all, there's only one life and there's only one chance to live it. When I grow old and look back on my life, I don't want to regret it because of not making the decision.
 
 ### Some of my projects:
 
@@ -12,7 +12,9 @@ Since long ago, I know that my true calling is to become a programmer. But I did
 ##### SwiftUI, AVFounddation, AVKit, Local notification
 
 Minimalist pomodoro timer, with nature sounds, local notification, haptic feedback, play sound in background.
-I made this project in 10 days. Since I don't have a degree in technology. I need to have something to show my ability. So, I give myself 10 days to build this project. I did everything my self, from design, to publish to Appstore. It quite stressfull, but after all, it's done. It's just a tiny achivement, like a drop of water in the ocean. I know that, I have to learn much much more if I want to become a well rounded developer.
+
+Minimalist Pomodoro timer, with nature sounds, local notification, haptic feedback, play sound in the background.
+I made this project in 10 days. Since I don't have a degree in technology. I need to have something to show my ability. So, I give myself 10 days to build this project. I did everything myself, from design, to publish to Appstore. It's quite stressful, but after all, it's done. It's just a tiny achievement, like a drop of water in the ocean. I know that I have to learn much much more if I want to become a well-rounded developer.
 
 <img src="Images/focusInNature/focusInNatureGreen_iphone12black_portrait.png" width="220" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/setting.png" width="220" >&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/screen.gif" width="220" style="margin-bottom: 200px;" >
 
