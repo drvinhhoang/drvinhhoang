@@ -12,7 +12,7 @@ Since long ago, I know that my true calling is to become a programmer. But I did
 ##### SwiftUI, AVFounddation, AVKit, Local notification
 
 Minimalist pomodoro timer, with nature sounds, local notification, haptic feedback, play sound in background.
-
+I made this project in 10 days. Since I don't have a degree in technology. I need to have something to show my ability. So, I give myself 10 days to build this project. I did everything my self, from design, to publish to Appstore. It quite stressfull, but after all, it's done. It's just a tiny achivement, like a drop of water in the ocean. I know that, I have to learn much much more if I want to become a well rounded developer.
 
 <img src="Images/focusInNature/focusInNatureGreen_iphone12black_portrait.png" width="220" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/setting.png" width="220" >&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/screen.gif" width="220" style="margin-bottom: 200px;" >
 
