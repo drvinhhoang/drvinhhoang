@@ -13,7 +13,7 @@ Frameworks: SwiftUI, AVFounddation, AVKit
 Minimalist pomodoro timer, with nature sounds, notification, haptic feedback, play sound in background.
 
 
-<img src="Images/focusInNature/focusInNatureGreen_iphone12black_portrait.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/setting.png" width="300" >&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/screen.gif" width="220" style="margin-bottom: 200px;" >
+<img src="Images/focusInNature/focusInNatureGreen_iphone12black_portrait.png" width="220" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/setting.png" width="220" >&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/screen.gif" width="220" style="margin-bottom: 200px;" >
 
 
 
@@ -24,8 +24,8 @@ Frameworks: UIKit (Interface Builder for UI part)
 Using github public API, searchable collectionView. When type in username, fetch user's list of followers. Show detail infomation of the follower. Show profile page in safari view.
 
 
-<img src="Images/githubFollower-iphone12mockup/searchview.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/githubFollower-iphone12mockup/listview.png/" width="300" >
-<img src="Images/githubFollower-iphone12mockup/detailview.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/githubFollower-iphone12mockup/safariviewa.png" width="300" >
+<img src="Images/githubFollower-iphone12mockup/searchview.png" width="220" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/githubFollower-iphone12mockup/listview.png/" width="220" >
+<img src="Images/githubFollower-iphone12mockup/detailview.png" width="220" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/githubFollower-iphone12mockup/safariviewa.png" width="220" >
 <img src="Images/githubFollower-iphone12mockup/screen.gif" width="220" >
 
 
