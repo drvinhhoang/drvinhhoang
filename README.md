@@ -13,7 +13,7 @@ Frameworks: SwiftUI, AVFounddation, AVKit
 Minimalist pomodoro timer, with nature sounds, notification, haptic feedback.
 
 
-<img src="Images/focusInNature/focusInNatureGreen_iphone12black_portrait.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/setting.png" width="300" >&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/screen.gif" height="220" style="margin-bottom: 200px;" >
+<img src="Images/focusInNature/focusInNatureGreen_iphone12black_portrait.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/setting.png" width="300" >&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/screen.gif" width="220" style="margin-bottom: 200px;" >
 
 <a href="https://apps.apple.com/app/id1600222896"><img src="Images/download.svg"></a>
 
@@ -25,7 +25,7 @@ Using searchable collection view, using github public API. When type in username
 
 <img src="Images/githubFollower-iphone12mockup/searchview.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/githubFollower-iphone12mockup/listview.png/" width="300" >
 <img src="Images/githubFollower-iphone12mockup/detailview.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/githubFollower-iphone12mockup/safariviewa.png" width="300" >
-<img src="Images/githubFollower-iphone12mockup/gfscreen.gif" height="220" >
+<img src="Images/githubFollower-iphone12mockup/gfscreen.gif" width="220" >
 
 <a href="https://github.com/drvinhhoang/LetsFocusPomoSPM"><img src="Images/github.svg"></a>
 
