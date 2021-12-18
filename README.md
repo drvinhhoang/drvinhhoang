@@ -21,7 +21,7 @@ Minimalist pomodoro timer, with nature sounds, notification, haptic feedback.
 
 Frameworks: UIKit
 
-Using github public API, searchable collectionView. When type in username, fetch followers list of the user. Show detail infomation of the follower when tapped. Show github profile button leads to follower profile page using safari view.
+Using github public API, searchable collectionView. When type in username, fetch followers list of the user. Show detail infomation of the follower when tapped. Show github profile button leads to follower's profile page in safari view.
 
 
 <img src="Images/githubFollower-iphone12mockup/searchview.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/githubFollower-iphone12mockup/listview.png/" width="300" >
