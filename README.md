@@ -3,7 +3,7 @@
 <img src="Images/bigheadimage.jpg" width="1000" > 
 
 Hi there, I'm Vinh, I'm currently a doctor, being on the journey to become an iOS developer. It's a rough path but also intriguing.
-Since long ago, I know that my true calling is to become a programmer. But I didn't have courage to pusuit my calling. After years working as a doctor, there something still missing inside me, I knew I have to make the decision. Finally, I made it, so, that's why I'm being here. I made a promise to myself. I will never waste any secconds of my life again. I will put everything in learning programming, and live the life I've always wanted. After all, there's only one life, there's only one chance to live it. When I grow old and looking back, I don't want to regret about not making the decision.
+Since long ago, I know that my true calling is to become a programmer. But I didn't have courage to pusuit my calling. After years working as a doctor, there something still missing inside me, I knew I have to make the decision. Finally, I made it, that's why I'm being here. I made a promise to myself. I will never waste any secconds of my life again. I will put everything in learning programming, and live the life I've always wanted. After all, there's only one life and there's only one chance to live it. When I grow old and looking back, I don't want to regret about not making the decision.
 
 ### Some of my projects:
 
