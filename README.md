@@ -6,9 +6,9 @@ Hi there, I'm Vinh, I'm currently a doctor, being on the journey to become an iO
 
 ### Some of my projects:
 
-# <img src="Images/icon_60pt@3x.png" width="32" >  Focus In Nature   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://apps.apple.com/app/id1600222896"><img src="Images/download.svg"></a>
+##### <img src="Images/icon_60pt@3x.png" width="32" >  Focus In Nature   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://apps.apple.com/app/id1600222896"><img src="Images/download.svg"></a>
 
-# SwiftUI, AVFounddation, AVKit, Local notification
+##### SwiftUI, AVFounddation, AVKit, Local notification
 
 Minimalist pomodoro timer, with nature sounds, local notification, haptic feedback, play sound in background.
 
