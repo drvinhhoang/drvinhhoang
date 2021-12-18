@@ -8,7 +8,7 @@ Hi there, I'm Vinh, I'm currently a doctor, being on the journey to become an iO
 
 # <img src="Images/icon_60pt@3x.png" width="32" >  Focus In Nature   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://apps.apple.com/app/id1600222896"><img src="Images/download.svg"></a>
 
-Frameworks: SwiftUI, AVFounddation, AVKit
+# SwiftUI, AVFounddation, AVKit, Local notification
 
 Minimalist pomodoro timer, with nature sounds, local notification, haptic feedback, play sound in background.
 
@@ -19,7 +19,7 @@ Minimalist pomodoro timer, with nature sounds, local notification, haptic feedba
 
 # <img src="Images/githubFollower-iphone12mockup/Icon@2x.png" width="32" >  Github Followers  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/drvinhhoang/GIthubFollower"><img src="Images/github.svg"></a>
 
-Frameworks: UIKit (Interface Builder for UI part)
+# UIKit (Interface Builder for UI part), Github public API
 
 Using github public API, searchable collectionView. When type in username, fetch user's list of followers. Show detail infomation of the follower. Show profile page in safari view.
 
@@ -30,7 +30,7 @@ Using github public API, searchable collectionView. When type in username, fetch
 
 
 # <img src="Images/findWeatherIcon.png" width="32" >  Find Weather  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://github.com/drvinhhoang/FindWeather"><img src="Images/github.svg"></a>
-Frameworks: SwiftUI, CoreLocation
+# SwiftUI, CoreLocation, Open weather API
 
 Simple weather app, display the weather the city typed in the search text field by users, or fetch weather data using user's location by tapping in location button.
 
@@ -41,7 +41,7 @@ Simple weather app, display the weather the city typed in the search text field 
 
 
 # <img src="Images/PomoFocus/icon_40pt.png" width="32" >  LetsFocusPomo  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/drvinhhoang/LetsFocusPomoSPM"><img src="Images/github.svg"></a>
-Frameworks: SwiftUI, Firebase
+# SwiftUI, Firebase
 
 Another timer, but add email authentication. Let users save their settings on cloud.
 
