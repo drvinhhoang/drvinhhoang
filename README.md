@@ -20,14 +20,14 @@ Minimalist pomodoro timer, with nature sounds, notification, haptic feedback.
 # <img src="Images/PomoFocus/icon_40pt.png" width="32" >  Github Followers
 Frameworks: UIKit
 
-Using searchable collection view, using github public API. When type in username, fetch followers list of the user. Show detail infomation of the follower when tapped. Show github profile button leads to follower profile page using safari view.
+Using github public API, searchable collectionView. When type in username, fetch followers list of the user. Show detail infomation of the follower when tapped. Show github profile button leads to follower profile page using safari view.
 
 
 <img src="Images/githubFollower-iphone12mockup/searchview.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/githubFollower-iphone12mockup/listview.png/" width="300" >
 <img src="Images/githubFollower-iphone12mockup/detailview.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/githubFollower-iphone12mockup/safariviewa.png" width="300" >
 <img src="Images/githubFollower-iphone12mockup/gfscreen.gif" width="220" >
 
-<a href="https://github.com/drvinhhoang/LetsFocusPomoSPM"><img src="Images/github.svg"></a>
+<a href="https://github.com/drvinhhoang/GIthubFollower"><img src="Images/github.svg"></a>
 
 # <img src="Images/findWeatherIcon.png" width="32" >  Find Weather
 Frameworks: SwiftUI, CoreLocation
