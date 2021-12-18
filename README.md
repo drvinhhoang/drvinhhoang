@@ -26,7 +26,7 @@ Using github public API, searchable collectionView. When type in username, fetch
 
 <img src="Images/githubFollower-iphone12mockup/searchview.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/githubFollower-iphone12mockup/listview.png/" width="300" >
 <img src="Images/githubFollower-iphone12mockup/detailview.png" width="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/githubFollower-iphone12mockup/safariviewa.png" width="300" >
-<img src="Images/githubFollower-iphone12mockup/gfscreen.gif" width="220" >
+<img src="Images/githubFollower-iphone12mockup/screen.gif" width="220" >
 
 
 # <img src="Images/findWeatherIcon.png" width="32" >  Find Weather  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://github.com/drvinhhoang/FindWeather"><img src="Images/github.svg"></a>
