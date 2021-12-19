@@ -1,6 +1,4 @@
-### Hi I'm Vinh.
-
-<img src="Images/bigheadimage.jpg" width="1000" > 
+# Hi I'm Vinh.
 
 Hi there, I'm Vinh, I'm currently a doctor, being on the journey to becoming an iOS developer. It's a rough path but also intriguing.
 
