@@ -10,8 +10,7 @@ Hi there, I'm Vinh, I'm currently a doctor, being on the journey to becoming an 
 
 ##### SwiftUI, AVFounddation, AVKit, Local notification
 
-Minimalist pomodoro timer, with nature sounds, local notification, haptic feedback, play sound in background.
-Minimalist Pomodoro timer, with nature sounds, local notification, haptic feedback, play sound in the background.
+Minimalist Pomodoro timer, with nature sounds, local notification, haptic feedback, play sound in the background. This literally a timer for minimalists.
 I made this project in 10 days, did everything myself, from design, to publishing to Appstore.  
 
 <img src="Images/focusInNature/focusInNatureGreen_iphone12black_portrait.png" width="220" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/setting.png" width="220" >&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/screen.gif" width="220" style="margin-bottom: 200px;" >
