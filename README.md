@@ -2,7 +2,7 @@
 
 Hi there, I'm Vinh, I'm currently a doctor, being on the journey to becoming an iOS developer. It's a rough path but also intriguing.
 
-  Since long ago, I know that my true calling is to become a programmer. But I didn't have the courage to pursue it. After years of working as a doctor, there was something still missing inside me, I knew I have to make the decision. Finally, I made it, that's the reason why I'm being here. 
+  Since long ago, I've known my true calling is to become a programmer. But I didn't have the courage to pursue it. After years of working as a doctor, there was something still missing inside me, I knew I have to make the decision. Finally, I made it, that's the reason why I'm being here. 
 
 ### Some of my projects:
 
@@ -32,7 +32,7 @@ Using github public API, searchable collectionView. When type in username, fetch
 # <img src="Images/findWeatherIcon.png" width="32" >  Find Weather  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://github.com/drvinhhoang/FindWeather"><img src="Images/github.svg"></a>
 ##### SwiftUI, CoreLocation, Open weather API
 
-Simple weather app, display the weather the city typed in the search text field by users, or fetch weather data using user's location by tapping in location button.
+Simple weather app, display the weather of the city was typed in the search text field by the user, or fetch weather data using user's location by tapping in location button.
 
 <img src="Images/findWeather/findWeatherScreen_iphone12black_portrait.png" width="220" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/findWeather/findWeatherGift.gif" width="220" >
 
