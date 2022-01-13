@@ -2,7 +2,7 @@
 
 Hi there, I'm Vinh, I'm currently a doctor, being on the journey to becoming an iOS developer. It's a rough path but also intriguing.
 
-  Since long ago, I've known my true calling is to become a programmer. But I didn't have the courage to pursue it. After years of working as a doctor, there was something still missing inside me, I knew I have to make the decision. Finally, I made it, that's the reason why I'm being here. 
+  Since long ago, I've known my true calling is to become a programmer. But I didn't have the courage to pursue it. After years of working as a doctor, there was something still missing inside me, I knew I have to make the decision. Finally, I've made it, that's the reason why I'm being here. 
 
 ### Some of my projects:
 
