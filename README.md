@@ -1,7 +1,6 @@
 # Hi I'm Vinh.
 
-Hi there, I'm Vinh, I had been working as a doctor for 3 years, I've been an iOS developer for 1 year. Deciding to become a programmer is the wisest decision I've made. 
-After a couple of months of working as a developer, I've never regret about making the decision. I've realized that I was born to do this job. And I have a long journey ahead with a bunch of opportunities, all relying on my ability to learn new things and sharpen my skills. But most importantly, I love what I do now.
+Hi there, I'm Vinh, I'm now working as an iOS developer
 
 ### Some projects I did when first started learning iOS programming:
 
