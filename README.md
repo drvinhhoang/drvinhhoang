@@ -1,6 +1,6 @@
 # Hi I'm Vinh.
 
-Hi there, I'm Vinh, I'm now working as an iOS developer
+Hi there, I'm Vinh, now I'm working as an iOS developer
 
 ### Some projects I did when first started learning iOS programming:
 
