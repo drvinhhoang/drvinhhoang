@@ -12,7 +12,7 @@ Minimalist Pomodoro timer, with nature sounds.
 
 <img src="Images/focusInNature/focusInNatureGreen_iphone12black_portrait.png" width="220" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/setting.png" width="220" >&nbsp;&nbsp;&nbsp;<img src="Images/focusInNature/screen.gif" width="220" style="margin-bottom: 200px;" >
 
-# <img src="bitcoinChart/bitcoinChartLogo.png" width="32" >  Bitcoin Chart  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="[https://github.com/drvinhhoang/GIthubFollower](https://github.com/drvinhhoang/BitcoinChart)"><img src="Images/github.svg"></a>
+# <img src="bitcoinChart/bitcoinChartLogo.png" width="32" >  Bitcoin Chart  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/drvinhhoang/GIthubFollower"><img src="Images/github.svg"></a>
 # BitcoinChart
 **Bitcoin chart - Tech stacks: SwiftUI, Swift Charts, Combine, Core Data, Async/Await, Websocket**
 <br><br><br><br>
